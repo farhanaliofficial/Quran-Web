@@ -1,0 +1,48 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+.list-item-counter{
+	width: 45px;
+	height: 45px;
+	line-height: 45px;
+	margin-right: 10px;
+	font-size: 1.5rem;
+}
+.aya-no,
+.list-item-counter{
+	background-color: #198754;
+	border-radius: 50%;
+	color: white;
+	display: inline-block;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font-weight: 600;
+} 
+.aya-no{
+	margin: 10px;
+	width: 40px;
+	height: 40px;
+	line-height: 35px;
+	font-size: 20px;
+	padding: 10px;
+}
+.navbar-brand{
+	font-size: 1.5rem;
+}
+.ayah{
+	font-family: 'Amiri Quran', serif;
+	font-size: 28px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #ccc;
+}
+.ist-group-item{
+	cursor: pointer;
+}
+.toggler{
+	cursor: pointer;
+}

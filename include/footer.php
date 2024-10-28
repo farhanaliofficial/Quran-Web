@@ -1,0 +1,1 @@
+	<script src="<?=$url;?>/static/js/bootstrap.min.js"></script>
