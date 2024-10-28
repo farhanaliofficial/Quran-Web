@@ -7,7 +7,7 @@
         <div class="collapse navbar-collapse" id="navContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link text-white" href="https://github.com/farhanaliofficial/Quran/issues">Report a Issue</a>
+                    <a class="nav-link text-white" href="https://github.com/farhanaliofficial/Quran-Web/issues">Report a Issue</a>
                 </li>
             </ul>
             <form class="d-flex" action="<?=$url;?>/search.php" method="GET">
